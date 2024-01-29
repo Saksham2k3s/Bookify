@@ -1,0 +1,16 @@
+.card{
+    border: 5px solid #d0f8ff;
+}
+
+.card .name{
+    font-size: 20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: bold;
+}
+
+.card .text{
+    font-size: 15px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   letter-spacing: 2px;
+   word-spacing: 2px;
+}

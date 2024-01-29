@@ -1,0 +1,36 @@
+nav{
+    box-shadow: 0px 0px 4px 2px;
+}
+
+.nav-item .nav-link{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.nav-item .nav-link:hover{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    text-decoration: underline 3px solid brown;
+}
+
+.profile-img img{
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.profileModal{
+    z-index: 1;
+    min-height: 50px;
+   min-width: 230px; 
+    position: absolute;
+    right: 25px;
+    top: 80px;
+    background-color: white;
+    border: 2px solid brown;
+    border-radius: 6px;
+
+}

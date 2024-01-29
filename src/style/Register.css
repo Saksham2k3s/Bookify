@@ -1,0 +1,50 @@
+.register-box{
+    padding: 15px;
+    height: 100vh;
+   
+}
+ 
+.box-1{
+    align-items: center;
+    text-align: center;
+}
+
+.register-box .box-1{
+    width: 50%;
+
+}
+
+.box-1 img{
+    height: 300px;
+    width: 300px;
+}
+
+.box-2{
+    border-left: 2px solid brown;
+}
+
+.box-2 input{
+   color: brown;
+   font-size: 18px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box-2 label{
+    color: brown;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.googlebtn , .googlebtn:hover{
+    background-color: hsl(0, 0%, 90%);;
+    text-align: center;
+    border: none;
+    color: black;
+    
+}
+
+.googlebtn img{
+    height: 30px;
+    width: 30px;
+}
+
